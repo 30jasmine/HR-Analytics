@@ -1,3 +1,5 @@
+## **HR Analytics Project – Atliq Technologies**
+
 Welcome to the **HR Analytics Project** for Atliq Technologies! This project focuses on analyzing employee attendance data from the past three months to help the HR Generalist gain meaningful insights. Using **Power BI Desktop**, we processed and visualized the data to uncover trends in attendance, work modes (Work From Home vs. Work From Office), and sick leave patterns.  
 
 ---
