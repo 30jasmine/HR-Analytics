@@ -57,6 +57,6 @@ This analysis equips **Atliq Technologies' HR team** with data-driven insights f
 ## **Acknowledgments**  
 
 A big thank you to **Codebasics** for their helpful tutorials, which guided the development of this project.
----
 
-This version makes the content feel more engaging while maintaining clarity and professionalism. Let me know if you'd like any further tweaks! 😊
+
+
